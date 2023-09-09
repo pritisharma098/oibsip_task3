@@ -1,2 +1,2 @@
-# oibsip_task3
+# Temperature converter
 This tasks includes code for temperature converter. 
